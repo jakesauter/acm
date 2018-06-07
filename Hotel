@@ -1,0 +1,7 @@
+first input is the amount of people (size of the array)
+the second input is the top floor of the hotel (helps with sorting)
+make an array of a class person, that has the time that you have to be there, and what floor they are on
+sort that array by highest floor to lowst floor
+keep a global timeElapsed variable
+make sure to add one when going down floor
+make sure to wait while you are the the floor
